@@ -1,4 +1,4 @@
-# Merkkle tree and leaf verifier #
+# Merkle tree and leaf verifier #
 
 ## Summary ##
 This is a terminal/bash tool written in TypeScript that verifies that a merkle tree is intact and that it contains a specified leaf.
