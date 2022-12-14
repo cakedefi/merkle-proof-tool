@@ -1,5 +1,5 @@
 {
-    "userID": "1a80a969302c4c5b7dba4e47208cb96c3a60a1f7",
+    "hash": "1a80a969302c4c5b7dba4e47208cb96c3a60a1f7",
     "assets": {
         "lending": {
             "USDT": "54080465.517",
@@ -43,7 +43,7 @@
         }
     },
     "left": {
-        "userID": "b20f279ee30ae6eff54a1b996392e1ea9fff9969",
+        "hash": "b20f279ee30ae6eff54a1b996392e1ea9fff9969",
         "assets": {
             "lending": {
                 "USDT": "27036702.189",
@@ -90,7 +90,7 @@
         "right": null
     },
     "right": {
-        "userID": "6b7eaba39e1d28b335ad7dd2387bb76beee6f183",
+        "hash": "6b7eaba39e1d28b335ad7dd2387bb76beee6f183",
         "assets": {
             "staking": {
                 "DOGE": "27107861.849",
@@ -134,7 +134,7 @@
             }
         },
         "left": {
-            "userID": "2b49aa67b90c0bff9cf0185f300f424b74619e1b",
+            "hash": "2b49aa67b90c0bff9cf0185f300f424b74619e1b",
             "assets": {
                 "staking": {
                     "DOGE": "13627599.516",
@@ -181,7 +181,7 @@
             "right": null
         },
         "right": {
-            "userID": "ff42f8c0e3f2c4db2caba115ed18f5d4cbf438c5",
+            "hash": "ff42f8c0e3f2c4db2caba115ed18f5d4cbf438c5",
             "assets": {
                 "wallet": {
                     "USDC": "13580534.074",
@@ -225,7 +225,7 @@
                 }
             },
             "left": {
-                "userID": "157e8c687b5fd84c0af8399698dfb57f55036569",
+                "hash": "157e8c687b5fd84c0af8399698dfb57f55036569",
                 "assets": {
                     "wallet": {
                         "USDC": "6782914.160",
@@ -272,7 +272,7 @@
                 "right": null
             },
             "right": {
-                "userID": "cbf267b19c556df6828d7e4961fa0824d8c2af3b",
+                "hash": "cbf267b19c556df6828d7e4961fa0824d8c2af3b",
                 "assets": {
                     "lending": {
                         "BTC": "6823920.944",
@@ -316,7 +316,7 @@
                     }
                 },
                 "left": {
-                    "userID": "416016a72022230a6c922f2a17e093e4fc21632f",
+                    "hash": "416016a72022230a6c922f2a17e093e4fc21632f",
                     "assets": {
                         "lending": {
                             "BTC": "3426392.802",
@@ -363,7 +363,7 @@
                     "right": null
                 },
                 "right": {
-                    "userID": "f5ac83e31b0cd4d5340fcb6a2fbf0bd6af88740d",
+                    "hash": "f5ac83e31b0cd4d5340fcb6a2fbf0bd6af88740d",
                     "assets": {
                         "lm": {
                             "AARK": "3419007.212",
@@ -407,7 +407,7 @@
                         }
                     },
                     "left": {
-                        "userID": "4eaa68da13a515817f2c24e1e22aeb4216f7444b",
+                        "hash": "4eaa68da13a515817f2c24e1e22aeb4216f7444b",
                         "assets": {
                             "lm": {
                                 "AARK": "1742202.362",
@@ -451,7 +451,7 @@
                             }
                         },
                         "left": {
-                            "userID": "9345bed0367bca980c72b07fb7567de9f8808d6b",
+                            "hash": "9345bed0367bca980c72b07fb7567de9f8808d6b",
                             "assets": {
                                 "lm": {
                                     "AARK": "841326.244",
@@ -498,7 +498,7 @@
                             "right": null
                         },
                         "right": {
-                            "userID": "76d25a93fbcdb16340c879a7afa9231e3bc67a41",
+                            "hash": "76d25a93fbcdb16340c879a7afa9231e3bc67a41",
                             "assets": {
                                 "lm": {
                                     "DUSD": "906135.967",
@@ -542,7 +542,7 @@
                                 }
                             },
                             "left": {
-                                "userID": "69b70f05fe50a0c48499c89065121ff4a3923ff3",
+                                "hash": "69b70f05fe50a0c48499c89065121ff4a3923ff3",
                                 "assets": {
                                     "lm": {
                                         "DUSD": "448729.249",
@@ -586,7 +586,7 @@
                                     }
                                 },
                                 "left": {
-                                    "userID": "2b06a9f7e8ad1f427ae98b6c886ba8ada222ae55",
+                                    "hash": "2b06a9f7e8ad1f427ae98b6c886ba8ada222ae55",
                                     "assets": {
                                         "lm": {
                                             "DUSD": "239917.021",
@@ -630,7 +630,7 @@
                                         }
                                     },
                                     "left": {
-                                        "userID": "e5cc48c15b1597f056583534009074e288af3e47",
+                                        "hash": "e5cc48c15b1597f056583534009074e288af3e47",
                                         "assets": {
                                             "lm": {
                                                 "DUSD": "118617.582",
@@ -674,7 +674,7 @@
                                             }
                                         },
                                         "left": {
-                                            "userID": "a04cd82f5e69d02a06faebc60f38f600da56234c",
+                                            "hash": "a04cd82f5e69d02a06faebc60f38f600da56234c",
                                             "assets": {
                                                 "lm": {
                                                     "DUSD": "58905.411",
@@ -718,7 +718,7 @@
                                                 }
                                             },
                                             "left": {
-                                                "userID": "f006437285523c9fbac90a7b34480a993fc092a9",
+                                                "hash": "f006437285523c9fbac90a7b34480a993fc092a9",
                                                 "assets": {
                                                     "lm": {
                                                         "DUSD": "28534.601",
@@ -765,7 +765,7 @@
                                                 "right": null
                                             },
                                             "right": {
-                                                "userID": "1821e6c06154ebf373e040c917585b7dd7546128",
+                                                "hash": "1821e6c06154ebf373e040c917585b7dd7546128",
                                                 "assets": {
                                                     "lending": {
                                                         "AARK": "26258.415",
@@ -809,7 +809,7 @@
                                                     }
                                                 },
                                                 "left": {
-                                                    "userID": "71a237484993662f1dbf9057acf0cdf43ca9cbdb",
+                                                    "hash": "71a237484993662f1dbf9057acf0cdf43ca9cbdb",
                                                     "assets": {
                                                         "lending": {
                                                             "AARK": "9498.618",
@@ -853,7 +853,7 @@
                                                         }
                                                     },
                                                     "left": {
-                                                        "userID": "c72b150505ad2078b0380214919e480dc00a392a",
+                                                        "hash": "c72b150505ad2078b0380214919e480dc00a392a",
                                                         "assets": {
                                                             "lending": {
                                                                 "AARK": "4888.752",
@@ -897,7 +897,7 @@
                                                             }
                                                         },
                                                         "left": {
-                                                            "userID": "423455d70a0b275fb467037f72c90d422dbd236e",
+                                                            "hash": "423455d70a0b275fb467037f72c90d422dbd236e",
                                                             "assets": {
                                                                 "lending": {
                                                                     "AARK": "2469.310",
@@ -944,7 +944,7 @@
                                                             "right": null
                                                         },
                                                         "right": {
-                                                            "userID": "333026f04e8c5afc729732972c3ace4b965750da",
+                                                            "hash": "333026f04e8c5afc729732972c3ace4b965750da",
                                                             "assets": {
                                                                 "lending": {
                                                                     "USDC": "3663.224",
@@ -988,7 +988,7 @@
                                                                 }
                                                             },
                                                             "left": {
-                                                                "userID": "3f91c9d62dc34250d8a73f670ad1f45078ede879",
+                                                                "hash": "3f91c9d62dc34250d8a73f670ad1f45078ede879",
                                                                 "assets": {
                                                                     "lending": {
                                                                         "USDC": "2760.997",
@@ -1032,7 +1032,7 @@
                                                                     }
                                                                 },
                                                                 "left": {
-                                                                    "userID": "ff2de99429bbf509d96a0a0fa25d633b23689e8d",
+                                                                    "hash": "ff2de99429bbf509d96a0a0fa25d633b23689e8d",
                                                                     "assets": {
                                                                         "lending": {
                                                                             "USDC": "871.914",
@@ -1071,7 +1071,7 @@
                                                                         }
                                                                     },
                                                                     "left": {
-                                                                        "userID": "e06b4394445c0b8c0962edb08cac2dd89a40d2c9",
+                                                                        "hash": "e06b4394445c0b8c0962edb08cac2dd89a40d2c9",
                                                                         "assets": {
                                                                             "lending": {
                                                                                 "USDC": "871.914",
@@ -1105,7 +1105,7 @@
                                                                             }
                                                                         },
                                                                         "left": {
-                                                                            "userID": "adaf0004711d0a7cb8c0df62ed181746dd7f9493",
+                                                                            "hash": "adaf0004711d0a7cb8c0df62ed181746dd7f9493",
                                                                             "assets": {
                                                                                 "lending": {
                                                                                     "USDC": "871.914",
@@ -1136,7 +1136,7 @@
                                                                                 }
                                                                             },
                                                                             "left": {
-                                                                                "userID": "09e052471f2e9e7f4cda07975bbd4b41d8bdcf6c",
+                                                                                "hash": "09e052471f2e9e7f4cda07975bbd4b41d8bdcf6c",
                                                                                 "assets": {
                                                                                     "lending": {
                                                                                         "USDC": "871.914",
@@ -1156,7 +1156,7 @@
                                                                                 "right": null
                                                                             },
                                                                             "right": {
-                                                                                "userID": "697da48816ab81e7dfaa3c8cd7534efd39141a4a",
+                                                                                "hash": "697da48816ab81e7dfaa3c8cd7534efd39141a4a",
                                                                                 "assets": {
                                                                                     "lm": {
                                                                                         "AARK": "249.281",
@@ -1178,7 +1178,7 @@
                                                                             }
                                                                         },
                                                                         "right": {
-                                                                            "userID": "e42449d03c88746c68f33d9e872d3604708e30fa",
+                                                                            "hash": "e42449d03c88746c68f33d9e872d3604708e30fa",
                                                                             "assets": {
                                                                                 "lending": {
                                                                                     "DFI": "325.459",
@@ -1202,7 +1202,7 @@
                                                                         }
                                                                     },
                                                                     "right": {
-                                                                        "userID": "fa2f724e96a9c839f2b614364ece216b62db47d6",
+                                                                        "hash": "fa2f724e96a9c839f2b614364ece216b62db47d6",
                                                                         "assets": {
                                                                             "lending": {
                                                                                 "USDT": "898.886",
@@ -1239,7 +1239,7 @@
                                                                     }
                                                                 },
                                                                 "right": {
-                                                                    "userID": "bcfa1a7e388a4085aa0b71fcd8eab35774d1f9b2",
+                                                                    "hash": "bcfa1a7e388a4085aa0b71fcd8eab35774d1f9b2",
                                                                     "assets": {
                                                                         "wallet": {
                                                                             "ETH": "1643.725",
@@ -1283,7 +1283,7 @@
                                                                 }
                                                             },
                                                             "right": {
-                                                                "userID": "45e834fdd0e8504030b7564d24efd27b266e4dee",
+                                                                "hash": "45e834fdd0e8504030b7564d24efd27b266e4dee",
                                                                 "assets": {
                                                                     "lending": {
                                                                         "DUSD": "981.970",
@@ -1329,7 +1329,7 @@
                                                         }
                                                     },
                                                     "right": {
-                                                        "userID": "e496ac6f93dbad239e088b8840fbe1624f2f855f",
+                                                        "hash": "e496ac6f93dbad239e088b8840fbe1624f2f855f",
                                                         "assets": {
                                                             "lm": {
                                                                 "ETH": "5017.965",
@@ -1377,7 +1377,7 @@
                                                     }
                                                 },
                                                 "right": {
-                                                    "userID": "c269f853c6619053d05df146cd3e83a649c80459",
+                                                    "hash": "c269f853c6619053d05df146cd3e83a649c80459",
                                                     "assets": {
                                                         "wallet": {
                                                             "DUSD": "10557.542",
@@ -1426,7 +1426,7 @@
                                             }
                                         },
                                         "right": {
-                                            "userID": "d6e4b9208a6f44570c8eb1057160227238e72ede",
+                                            "hash": "d6e4b9208a6f44570c8eb1057160227238e72ede",
                                             "assets": {
                                                 "staking": {
                                                     "AARK": "51034.178",
@@ -1474,7 +1474,7 @@
                                         }
                                     },
                                     "right": {
-                                        "userID": "4083e6f675aa56ae057e0541aef6838bd53c4e0a",
+                                        "hash": "4083e6f675aa56ae057e0541aef6838bd53c4e0a",
                                         "assets": {
                                             "lm": {
                                                 "DFI": "109244.056",
@@ -1522,7 +1522,7 @@
                                     }
                                 },
                                 "right": {
-                                    "userID": "bb4dcd9b0a400ec66f49278c4eb72a2ee1784b93",
+                                    "hash": "bb4dcd9b0a400ec66f49278c4eb72a2ee1784b93",
                                     "assets": {
                                         "lm": {
                                             "USDC": "203958.520",
@@ -1570,7 +1570,7 @@
                                 }
                             },
                             "right": {
-                                "userID": "88fc3e5bfdc82ebaf0d6fc7b139ffa09022da6af",
+                                "hash": "88fc3e5bfdc82ebaf0d6fc7b139ffa09022da6af",
                                 "assets": {
                                     "lm": {
                                         "AARK": "454452.313",
@@ -1619,7 +1619,7 @@
                         }
                     },
                     "right": {
-                        "userID": "9cc55a8eff7e7af1442b9398423da1494bd9d3c1",
+                        "hash": "9cc55a8eff7e7af1442b9398423da1494bd9d3c1",
                         "assets": {
                             "wallet": {
                                 "DFI": "1730306.981",

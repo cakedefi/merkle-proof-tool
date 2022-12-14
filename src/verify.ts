@@ -2,7 +2,7 @@ import { readJsonFile } from './file';
 import { Assets, assetsSumDiscrepancies, checkTreeIntegrity, findLeaf, TreeNode } from './tree';
 import parseArgs from 'minimist';
 
-const args = parseArgs(process.argv.slice(2));
+const args: parseArgs.ParsedArgs = parseArgs(process.argv.slice(2));
 
 readJsonFile(args.tree)
     .then((tree: TreeNode) => {
@@ -15,6 +15,10 @@ readJsonFile(args.tree)
         const allHashesChecksOut: boolean = checkTreeIntegrity(tree);
         const userLeaf: Assets | null = findLeaf(tree, args.hash);
         const summationDiscrepancies: boolean = assetsSumDiscrepancies(tree);
+
+        if (timeOfSnapshot) {
+            console.log(`Merkle tree data snapshot taken ${timeOfSnapshot}`);
+        }
 
         if (allHashesChecksOut) {
             console.log('✅ Merkle tree checksum integrity checks out.');
@@ -37,10 +41,12 @@ readJsonFile(args.tree)
         if (args.verbose) {
             console.log();
             console.log('---------- Merkle root ----------');
+            console.log(`Hash: ${tree.hash}`);
             console.log(JSON.stringify(root, null, 2));
             console.log('---------------------------------');
             console.log();
             console.log('--------- Verified leaf ---------');
+            console.log(`Hash: ${args.hash}`);
             console.log(JSON.stringify(userLeaf, null, 2));
             console.log('---------------------------------');
         }
