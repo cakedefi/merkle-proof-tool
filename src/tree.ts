@@ -11,7 +11,7 @@ export interface Assets {
 }
 
 export interface TreeNode {
-    userID: string;
+    hash: string;
     assets: Assets;
     timeOfSnapshot?: number;
     left: TreeNode | null;
@@ -19,10 +19,10 @@ export interface TreeNode {
 }
 
 export const createStructuralNodeHash = (node: TreeNode): string => {
-    if (!node || !node.assets || !node.left || !node.left.userID || !node.right || !node.right.userID) {
+    if (!node || !node.assets || !node.left || !node.left.hash || !node.right || !node.right.hash) {
         throw '❗Hash calculation error in structural node';
     }
-    return sha1(JSON.stringify([node.assets, node.left.userID, node.right.userID]));
+    return sha1(JSON.stringify([node.assets, node.left.hash, node.right.hash]));
 };
 
 export const checkTreeIntegrity = (tree: TreeNode): boolean => {
@@ -34,7 +34,7 @@ export const checkTreeIntegrity = (tree: TreeNode): boolean => {
         }
 
         const hash: string = createStructuralNodeHash(node);
-        if (hash !== node.userID) {
+        if (hash !== node.hash) {
             allHashesChecksOut = false;
         }
 
@@ -54,7 +54,7 @@ export const findLeaf = (tree: TreeNode, leafID: string): Assets | null => {
             return;
         }
 
-        if (leafID === node.userID) {
+        if (leafID === node.hash) {
             leafFound = node.assets;
         }
         lookForLeaf(node.left);

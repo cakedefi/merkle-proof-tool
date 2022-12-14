@@ -49,7 +49,7 @@ describe('Tree operation tests', () => {
     describe('Tree hashing and checksums', () => {
         test('Can re-create a structural node hash', () => {
             const hash = createStructuralNodeHash(correct);
-            expect(hash).toBe(correct.userID);
+            expect(hash).toBe(correct.hash);
         });
 
         test('Verify all the checksums in a tree', () => {
