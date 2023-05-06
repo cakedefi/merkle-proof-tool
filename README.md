@@ -1,3 +1,4 @@
+
 # Merkle tree and leaf verifier #
 
 ## Summary ##
@@ -29,7 +30,7 @@ npm run verify -- --tree=merkleTree.json --hash=09e052471f2e9e7f4cda07975bbd4b41
 ```
 #### Using the nodeJS runtime directly ###
 ```bash
-node build/verify.js --tree=<path/treeFileName.json> --hash=<yourHashID> --verbose
+node build/verify.js --tree=<path/treeFileName.json> --hash=<yourHashID03844b51f158cb5eabd7328f6c66c8e2c7d6ea4b > --verbose
 ```
 (please note that you must add the ```--``` parameter only if using npm but not when using nodeJS)
 
